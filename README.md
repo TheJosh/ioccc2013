@@ -106,7 +106,7 @@ Level format
 Levels are a group of .bmp image files. Magenta (R=255, G=0, B=255) is used for
 transparency.
 
-Yes, these filenames are case sensitive. The dimenstions need to remain as-is.
+Yes, these filenames are case sensitive. The dimensions need to remain as-is.
 
 a.bmp, d.bmp = Character sprite
 g.bmp, n.bmp = Fire
